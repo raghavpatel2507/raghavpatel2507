@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Raghav Patel</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+- 👨‍💻 my portfoliyo link: [https://raghavpatel2507.github.io/](https://raghavpatel2507.github.io/)
+
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavpatel2507&label=Profile%20views&color=0e75b6&style=flat" alt="raghavpatel2507" /> </p>
