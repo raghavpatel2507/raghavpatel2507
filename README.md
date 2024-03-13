@@ -1,6 +1,6 @@
 ![logo](https://github.com/raghavpatel2507/raghavpatel2507/blob/main/Raghav%20patel.png)
 <h1 align="center">Hi 👋, I'm Raghav Patel</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 - 👨‍💻 my portfoliyo link: [https://raghavpatel2507.github.io/](https://raghavpatel2507.github.io/)
 
