@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **Data Science,Machine Learning,Deep Learning,NLP**
 
-- 📝 I regularly write articles on [https://medium.com/@raghavlimbani12/title-my-data-science-journey-exploring-the-world-of-oasis-infobyte-727a83c1d067](https://medium.com/@raghavlimbani12/title-my-data-science-journey-exploring-the-world-of-oasis-infobyte-727a83c1d067)
 
 - 📫 How to reach me **patelraghav014@gmail.com**
 
