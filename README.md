@@ -37,4 +37,3 @@
   - Meeting point: Fishing Harbour Marina, Umm Suqeim 2
   - [Booking Link](https://www.peek.com/b/a07agemw?utm_campaign=peek_plus&utm_content=mcp&utm_medium=affiliate&utm_source=int0z4m)
 
-Enjoy your trip to Dubai!
