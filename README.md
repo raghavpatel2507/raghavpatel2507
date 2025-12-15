@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Raghav Patel</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-- 👨💻 my portfoliyo link: [https://raghavpatel2507.github.io/](https://raghavpatel2507.github.io/)
+- 👨
+💻 my portfoliyo link: [https://raghavpatel2507.github.io/](https://raghavpatel2507.github.io/)
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -33,35 +34,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavpatel2507&" alt="raghavpatel2507" /></p>
 
 ---
-
-## Dubai 4-Day Travel Itinerary Plan
-
-### Day 1: Dubai City Highlights Tour
-- Private Full-Day Dubai Tour: Explore City Highlights and Burj Khalifa
-  - Duration: 8 hours
-  - Price: $260
-  - Highlights: Bastakia Quarter, Deira Old Souk Abra Station, Dubai Spice Souk, Dubai Gold Souk, Dubai Frame, Za'abeel Palace, The Dubai Mall, Jumeirah Mosque, Burj Khalifa, Jumeirah Public Beach, Burj Al Arab, Souk Madinat Jumeirah, Palm Jumeirah, Dubai Marina.
-  - [Booking Link](https://www.peek.com/b/a0w97rx?utm_campaign=peek_plus&utm_content=mcp&utm_medium=affiliate&utm_source=int0z4m)
-
-### Day 2: Desert Safari Adventure
-- Dubai Desert Safari: Red Dunes Adventure
-  - Duration: 6 hours
-  - Price: $81
-  - Highlights: Dune bashing, sandboarding, camel rides, BBQ dinner, live entertainment including belly dancing and fire show, henna painting.
-  - [Booking Link](https://www.peek.com/b/a0x6qw6?utm_campaign=peek_plus&utm_content=mcp&utm_medium=affiliate&utm_source=int0z4m)
-
-### Day 3: Premium Desert Camp & Quad Biking
-- Premium Desert Camp: Luxurious Arabian Experience
-  - Duration: 7 hours
-  - Price: $75
-  - Highlights: Quad biking, dune bashing, sandboarding, camel rides, traditional dress photo sessions, henna painting, live dance performances, BBQ dinner.
-  - [Booking Link](https://www.peek.com/b/a0xeawyg?utm_campaign=peek_plus&utm_content=mcp&utm_medium=affiliate&utm_source=int0z4m)
-
-### Day 4: Water Adventure & Jet Ski Tour
-- Dubai Jet Ski Tour: Luxury and Adventure
-  - Duration: 1 hour
-  - Price: $151
-  - Highlights: Jet ski tour from Dubai Marina to Burj Al Arab, Atlantis The Palm, and other landmarks, guided by certified instructor, photos and videos included.
   - Meeting point: Fishing Harbour Marina, Umm Suqeim 2
   - [Booking Link](https://www.peek.com/b/a07agemw?utm_campaign=peek_plus&utm_content=mcp&utm_medium=affiliate&utm_source=int0z4m)
 
