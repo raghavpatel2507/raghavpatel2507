@@ -34,6 +34,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavpatel2507&" alt="raghavpatel2507" /></p>
 
 ---
-  - Meeting point: Fishing Harbour Marina, Umm Suqeim 2
-  - [Booking Link](https://www.peek.com/b/a07agemw?utm_campaign=peek_plus&utm_content=mcp&utm_medium=affiliate&utm_source=int0z4m)
-
